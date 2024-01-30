@@ -8,7 +8,7 @@ I actually believe that cats are the cutest creatures.
 
 ## Education
 - Department of Computer Science, Korea University (M.S.)
-  - [DXP Lab](https://dxp.korea.ac.kr/)
+  - [DXP Lab.](https://dxp.korea.ac.kr/)
 - Department of Game Software, Hoseo University (B.S.)
   - Summa Cum Laude (Rank: 1/66)
   - GML
