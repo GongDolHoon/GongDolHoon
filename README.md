@@ -8,10 +8,11 @@ I actually believe that cats are the cutest creatures.
 
 ## Education
 - Department of Computer Science, Korea University (M.S.)
-  - DXP (Digital eXPerience laboratory)
+  - [DXP Lab](https://dxp.korea.ac.kr/)
 - Department of Game Software, Hoseo University (B.S.)
   - Summa Cum Laude (Rank: 1/66)
-  - GML (Game Media Laboratory)
+  - GML
+  - BugSoft
 
 ## Publication
 - Walking-in-Flat-Place on Non-flat Virtual Environment can be Sickening!
