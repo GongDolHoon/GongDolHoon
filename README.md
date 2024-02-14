@@ -1,10 +1,6 @@
 ## Seunghoon Park
 I actually believe that cats are the cutest creatures.
-
-## Profile
-- [Google Scholar](https://scholar.google.com/citations?user=d3wF17UAAAAJ&hl=ko)
-- [Baekjoon Online Judge](https://www.acmicpc.net/user/hoonforalice)
-- [solved.ac](https://solved.ac/profile/hoonforalice)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonforalice)](https://solved.ac/hoonforalice/)
 
 ## Education
 - Department of Computer Science, Korea University (M.S.)
