@@ -12,6 +12,8 @@ I actually believe that cats are the cutest creatures.
   - BugSoft
 
 ## Publication
+- The Effect of Directional Airflow toward Vection and Cybersickness
+  - 2024 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)
 - Walking-in-Flat-Place on Non-flat Virtual Environment can be Sickening!
   - Proceedings of the 29th ACM Symposium on Virtual Reality Software and Technology
 - Sickness Reduction in FPV Drone Control: Improved Effects of Reverse Optical Flow with Static Landmarks Only
